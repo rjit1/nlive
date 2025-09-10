@@ -1,0 +1,5 @@
+{
+  "name": "E-Commerce Clothing Ad Generator",
+  "description": "An AI-powered application for clothing brands to generate professional e-commerce ad images. It uses Gemini to composite product photos onto models, create dynamic layouts, add taglines, and produce high-fidelity, photorealistic advertisements.",
+  "requestFramePermissions": []
+}
